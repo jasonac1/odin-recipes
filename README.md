@@ -1,0 +1,1 @@
+This is the Recipes project of The Odin Project. The project aims to help practice building a simple website with text, images, and links using HTML. 
