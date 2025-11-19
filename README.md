@@ -13,4 +13,4 @@ Project structure:\
 └── recipes\
     ├── chicken-arroz-caldo.html\
     ├── chocolate-chip-cookies.html\
-    └── steamed-eggs.html\
+    └── steamed-eggs.html
