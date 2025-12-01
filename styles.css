@@ -87,3 +87,19 @@ body {
 .credits  {
     margin-bottom: 10rem;
 }
+
+/* chicken-arroz-caldo.html */
+.chicken-arroz-caldo-heading {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 1.5rem;
+}
+
+.chicken-arroz-caldo-img {
+    border: 2px solid black;
+    display: block;
+    margin-top: 1rem;
+    margin-left: 1.5rem;
+}
+
