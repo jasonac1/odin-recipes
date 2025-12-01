@@ -11,8 +11,10 @@ Project structure:
 │   └── steamed-eggs.jpg
 ├── index.html
 ├── README.md
-└── recipes
-    ├── chicken-arroz-caldo.html
-    ├── chocolate-chip-cookies.html
-    └── steamed-eggs.html
+├── recipes
+│   ├── chicken-arroz-caldo.html
+│   ├── chocolate-chip-cookies.html
+│   └── steamed-eggs.html
+└── styles.css
+
 ```
