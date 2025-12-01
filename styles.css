@@ -31,7 +31,7 @@ body {
     padding: 1rem;
 } 
 
-/* steamed-eggs.html */
+/* recipe pages */
 .home {
     display: block;
     font-size: 1.5rem;
@@ -40,14 +40,14 @@ body {
     margin-left: 1.5rem;
 }
 
-.steamed-eggs-heading {
+.recipename-heading {
     font-size: 1.5rem;
     margin-top: 1rem;
     margin-bottom: 1rem;
     margin-left: 1.5rem;
 }
 
-.steamed-eggs-img {
+.recipe-img {
     border: 2px solid black;
     display: block;
     margin-top: 1rem;
@@ -70,12 +70,12 @@ body {
     padding: 1rem;
 }
 
-.li-steamed-eggs-ingredient {
+.li-ingredient {
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
 }
 
-.li-steamed-eggs-step {
+.li-step {
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
@@ -86,54 +86,4 @@ body {
 
 .credits  {
     margin-bottom: 10rem;
-}
-
-/* chicken-arroz-caldo.html */
-.chicken-arroz-caldo-heading {
-    font-size: 1.5rem;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    margin-left: 1.5rem;
-}
-
-.chicken-arroz-caldo-img {
-    border: 2px solid black;
-    display: block;
-    margin-top: 1rem;
-    margin-left: 1.5rem;
-}
-
-.li-chicken-arroz-caldo-ingredient {
-    margin-top: 0.5rem;
-    margin-bottom: 0.5rem;
-}
-
-.li-chicken-arroz-caldo-step {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-}
-
-/* chocolate-chip-cookies.html */
-.chocolate-chip-cookies-heading {
-    font-size: 1.5rem;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    margin-left: 1.5rem;
-}
-
-.chocolate-chip-cookies-img {
-    border: 2px solid black;
-    display: block;
-    margin-top: 1rem;
-    margin-left: 1.5rem;
-}
-
-.li-chocolate-chip-cookies-ingredient {
-    margin-top: 0.5rem;
-    margin-bottom: 0.5rem;
-}
-
-.li-chocolate-chip-cookies-step {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
 }
